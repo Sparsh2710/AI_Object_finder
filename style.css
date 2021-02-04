@@ -1,0 +1,53 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+}
+
+
+label {
+    letter-spacing: 3px;
+    font-family: 'Big Shoulders Display', cursive;
+    color:black;
+}
+
+#object_name {
+    height: 35px;
+    font-family: 'Yusei Magic', sans-serif;
+    width: 35%;
+    border-radius: 5px;
+    border: solid 1px dodgerblue;
+    background-color: white;
+    color: white;
+}
+
+p {
+    letter-spacing: normal;
+    word-spacing: normal;
+    font-size: 18px;
+    font-family: 'Yusei Magic', sans-serif;
+    color: black;
+}
+
+#status, #number_of_objects {
+    font-size: 18px;
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+canvas {
+    margin-top: 80px;
+    box-shadow: 10px 10px 10px rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+#start_BTN {
+    font-family: 'Yusei Magic', sans-serif;
+}
