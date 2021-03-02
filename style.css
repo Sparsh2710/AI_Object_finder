@@ -26,7 +26,7 @@ label {
     border-radius: 5px;
     border: solid 1px dodgerblue;
     background-color: white;
-    color: white;
+    color: black;
 }
 
 p {
@@ -44,8 +44,9 @@ p {
 
 canvas {
     margin-top: 80px;
-    box-shadow: 10px 10px 10px rgb(0, 0, 0);
+    box-shadow: 10px 10px 10px rgb(93, 205, 219);
     border-radius: 10px;
+    border: solid 2px white;
 }
 
 #start_BTN {
